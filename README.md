@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @felcy16
 - 👀 I’m interested in ...Geopandas
-- 🌱 I’m currently learning...Geopandas
+- 🌱 I’m currently learning to delve into Geopandas
 - 💞️ I’m looking to collaborate on ...Geopandas
-- 📫 How to reach me ...i will reach you
+- 📫 DM me i will reach you
 
 <!---
 felcy16/felcy16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
