@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @felcy16
-- 👀 I’m interested in ...Geopandas
-- 🌱 I’m currently learning to delve into Geopandas
-- 💞️ I’m looking to collaborate on ...Geopandas
+- 👀 I am a GIS enthusiast experimenting on implementing Python packages into Spatial dataset
 - 📫 DM me i will reach you
 
 <!---
